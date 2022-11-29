@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/ATV.az.png" group-title="Undefined",Atv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4800?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/atv.tr.png" group-title="Undefined",Atv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/52?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" group-title="Undefined",360 TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="Undefined",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/a2.tr.png" group-title="Undefined",A2 Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6314?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png" group-title="Undefined",Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/arti.tr.png" group-title="Undefined",Artı Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3254?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.tr.png" group-title="Undefined",Kanal D HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/54?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/atvavrupa.tr.png" group-title="Undefined",Atv Avrupa
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7081?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN BOX OFFICE 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044242?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN BOX OFFICE 3
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044243?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES ACTION
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044247?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES ACTION 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044248?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES FAMILY
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044249?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES PREMIER 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044251?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES PREMIER
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044250?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES TURK
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044253?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN SERIES COMEDY
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044254?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN SERIES DRAMA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044255?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN SERIES SCI-FI
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044256?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN SERIES VICE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044257?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Undefined",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Biz Cinema
+https://st.biztv.uz/hls/c_hi/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Music",California Music Channel
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcaliforniamusicchannel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DMAX HD
+http://195.155.98.170:5858/play/a0a4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DREAM TURK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/DreamTurk.tr.png" group-title="Undefined",Dream Türk
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",EURO D YEDEK
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/pHlRi8m.jpg" group-title="Undefined",Em TV
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://panel.tivix.eu/logo1/turkey/ulusal/fmtv.png" group-title="Undefined",FM Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116748?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Fashion TV RU WORLD
+https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Fashion TV Paris
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfashiontvparis/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FashionTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FashionTV WORLD
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Haberturk.tr.png" group-title="Undefined",Habertürk HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/516?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/HaberGlobal.tr.png" group-title="Undefined",Haber Global HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/20561?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KRAL POP TV HD
+http://dygvideo.dygdigital.com/live/hls/kralpop?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KRAL TV  YEDEK
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1f08b8a5-6d69-4260-a003-be0eed42532f.png" group-title="Undefined",Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a2a2c267-f41c-4825-aa80-6d1077e43b1f.png" group-title="Undefined",Kral TV
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MTV BIGGEST POP HD
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MiLYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",NR1 YEDEK
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png" group-title="Undefined",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8c209aef-5802-4649-9dd6-d3ab7cd96974.png" group-title="Undefined",Number 1 Türk
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/40126f77-82dd-4645-8e4a-a0be2c16ba80.png" group-title="Undefined",Number One
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",OCKO TV HITY
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",POWER TURK HD YEDEK
+http://yerelmedya.tv:1935/powerturktv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",POWER TV TR HD
+https://mn-nl.mncdn.com/blutv_power2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",PRIMA MOVIES
+http://51.210.199.40/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Music",Qmusic HD
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",SHOW TV [HD]
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",STAR TV
+http://195.155.98.170:5858/play/a09w?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" group-title="Undefined",Show Türk
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Showmax.tr.png" group-title="Undefined",ShowMax
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6632?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TEMPO TV
+http://yerelmedya.tv:1935/tempotv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TLC HD
+http://195.155.98.170:5858/play/a0a5?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/tv100.tr.png" group-title="Undefined",TV 100 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/35073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV EM
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e9bd1848-30e3-4798-bc39-a35b611771ba.png" group-title="Undefined",TV100
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TV2.tr.png" group-title="Undefined",Teve2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6386?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://panel.tivix.eu/logo1/turkey/ulusal/uatv.png" group-title="Undefined",UA Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116744?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Ucankus.tr.png" group-title="Undefined",Uçankuş TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/111193?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",ALFA CINEMA 1 +2
+http://red.ipfox.org:8080/Karam2022/Karam2023/49830?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",DISNEY CHANNEL +1 HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/49828?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",DISNEY CHANNEL +2 HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/49829?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",ALFA CINEMA 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/49757?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Music",MUSIC NOW HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/49760?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",STAR MOVIES HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/49742?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/31918?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 10
+http://red.ipfox.org:8080/Karam2022/Karam2023/31909?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 2
+http://red.ipfox.org:8080/Karam2022/Karam2023/31917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 3
+http://red.ipfox.org:8080/Karam2022/Karam2023/31916?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 4
+http://red.ipfox.org:8080/Karam2022/Karam2023/31915?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 5
+http://red.ipfox.org:8080/Karam2022/Karam2023/31914?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 6
+http://red.ipfox.org:8080/Karam2022/Karam2023/31913?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 7
+http://red.ipfox.org:8080/Karam2022/Karam2023/31912?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 8
+http://red.ipfox.org:8080/Karam2022/Karam2023/31911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix 9
+http://red.ipfox.org:8080/Karam2022/Karam2023/31910?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix Action 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/31908?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix Action 2
+http://red.ipfox.org:8080/Karam2022/Karam2023/31907?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix Horror 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/31901?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix Horror 2
+http://red.ipfox.org:8080/Karam2022/Karam2023/31900?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix Romance 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/31903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix Romance 2
+http://red.ipfox.org:8080/Karam2022/Karam2023/31902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Netflix Sci-Fi
+http://red.ipfox.org:8080/Karam2022/Karam2023/31904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/31899?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 10
+http://red.ipfox.org:8080/Karam2022/Karam2023/31890?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 2
+http://red.ipfox.org:8080/Karam2022/Karam2023/31898?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 3
+http://red.ipfox.org:8080/Karam2022/Karam2023/31897?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 4
+http://red.ipfox.org:8080/Karam2022/Karam2023/31896?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 5
+http://red.ipfox.org:8080/Karam2022/Karam2023/31895?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 6
+http://red.ipfox.org:8080/Karam2022/Karam2023/31894?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 7
+http://red.ipfox.org:8080/Karam2022/Karam2023/31893?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 8
+http://red.ipfox.org:8080/Karam2022/Karam2023/31892?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: showtime 9
+http://red.ipfox.org:8080/Karam2022/Karam2023/31891?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Box ACTION 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/30474?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Box ACTION 2
+http://red.ipfox.org:8080/Karam2022/Karam2023/30473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Box CLASSIC
+http://red.ipfox.org:8080/Karam2022/Karam2023/30471?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Box HORROR
+http://red.ipfox.org:8080/Karam2022/Karam2023/30472?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Cinema CAM 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/31938?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Cinema CAM 2
+http://red.ipfox.org:8080/Karam2022/Karam2023/31937?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Fox: Cinema Comedy
+http://red.ipfox.org:8080/Karam2022/Karam2023/31936?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",NICK MUSIC
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146678?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",MTV CLASSIC
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145980?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",FX
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145954?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",FXM (Retro)
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145955?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",FXX
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",TRACE URBAN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57373?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",M6
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57319?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",MCM TOP
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57323?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",MCM HD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57322?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Music",My Music Channel
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmymusicchannel30a/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",MTV FRANCE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57324?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",NRJ12
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57333?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",CINE EMOTION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57287?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",CINE CLUB
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57286?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",CINE FRISSON
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57289?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",CINE FAMIZ
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57288?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",CINE PREMIER
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57290?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg" group-title="FRANCE",ACTION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57246?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",.red Russia (480p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",.black Russia (480p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",.sci-fi Russia (480p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg" group-title="Undefined",1HD
+http://193.33.240.8:8080/1hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",1HD (Music) (US) (Spanish)
+http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8?checkedby:iptvcat.com
